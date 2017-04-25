@@ -1,0 +1,112 @@
+// const searchOptions = {
+//   keyword: 'Hillary Clinton', // search string or array of strings,
+//   startTime: new Date(2015, 4, 11), // default is 1/1/2004
+//   endTime: new Date(2015, 4, 19), // default is current date
+// };
+
+{
+  "default": {
+    "timelineData": [
+      {
+        "time": "1431302400",
+        "formattedTime": "May 11, 2015",
+        "formattedAxisTime": "May 11, 2015",
+        "value": [
+          82
+        ],
+        "formattedValue": [
+          "82"
+        ]
+      },
+      {
+        "time": "1431388800",
+        "formattedTime": "May 12, 2015",
+        "formattedAxisTime": "May 12, 2015",
+        "value": [
+          80
+        ],
+        "formattedValue": [
+          "80"
+        ]
+      },
+      {
+        "time": "1431475200",
+        "formattedTime": "May 13, 2015",
+        "formattedAxisTime": "May 13, 2015",
+        "value": [
+          78
+        ],
+        "formattedValue": [
+          "78"
+        ]
+      },
+      {
+        "time": "1431561600",
+        "formattedTime": "May 14, 2015",
+        "formattedAxisTime": "May 14, 2015",
+        "value": [
+          71
+        ],
+        "formattedValue": [
+          "71"
+        ]
+      },
+      {
+        "time": "1431648000",
+        "formattedTime": "May 15, 2015",
+        "formattedAxisTime": "May 15, 2015",
+        "value": [
+          71
+        ],
+        "formattedValue": [
+          "71"
+        ]
+      },
+      {
+        "time": "1431734400",
+        "formattedTime": "May 16, 2015",
+        "formattedAxisTime": "May 16, 2015",
+        "value": [
+          63
+        ],
+        "formattedValue": [
+          "63"
+        ]
+      },
+      {
+        "time": "1431820800",
+        "formattedTime": "May 17, 2015",
+        "formattedAxisTime": "May 17, 2015",
+        "value": [
+          77
+        ],
+        "formattedValue": [
+          "77"
+        ]
+      },
+      {
+        "time": "1431907200",
+        "formattedTime": "May 18, 2015",
+        "formattedAxisTime": "May 18, 2015",
+        "value": [
+          69
+        ],
+        "formattedValue": [
+          "69"
+        ]
+      },
+      {
+        "time": "1431993600",
+        "formattedTime": "May 19, 2015",
+        "formattedAxisTime": "May 19, 2015",
+        "value": [
+          100
+        ],
+        "formattedValue": [
+          "100"
+        ]
+      }
+    ],
+    "averages": []
+  }
+}

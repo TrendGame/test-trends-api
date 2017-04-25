@@ -15,9 +15,9 @@ app.listen(PORT, () => {
 });
 
 const searchOptions = {
-  keyword: 'Hillary Clinton' // search string or array of strings,
-  // startTime: new Date(), // default is 1/1/2004
-  // endTime: new Date(), // default is current date
+  keyword: 'Hillary Clinton', // search string or array of strings,
+  startTime: new Date(2015, 4, 11), // default is 1/1/2004
+  endTime: new Date(2015, 4, 19), // default is current date
 };
 
 app.get('/', (req, res) => {

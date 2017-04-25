@@ -1,3 +1,7 @@
+// const searchOptions = {
+//   keyword: 'Hillary Clinton', // search string or array of strings,
+// };
+
 {
   "default": {
     "timelineData": [

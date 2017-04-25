@@ -1,0 +1,27 @@
+{
+  "name": "test-trends-api",
+  "version": "1.0.0",
+  "description": "Testing Google Trends NPM package response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TrendGame/test-trends-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TrendGame/test-trends-api/issues"
+  },
+  "homepage": "https://github.com/TrendGame/test-trends-api#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "google-trends-api": "^4.1.0",
+    "morgan": "^1.8.1"
+  }
+}
